@@ -13,9 +13,9 @@ Team Scribe is a collaborative notes application that enables real-time team col
 - [ ] persist user data
 - [ ] manage authentication
 
-## architecture
+## Architecture
 
-[High level architecture](./assets/hld.png)
+<img src="./assets/hld.png" alt="High Level Diagram"/>
 
 ## Installation
 
